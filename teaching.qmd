@@ -2,13 +2,43 @@
 title: "Teaching"
 ---
 
-I teach courses in research methods, data science and machine learning at LSE and LSE Summer School. 
+I teach courses in research methods, data science and machine learning at LSE and LSE Summer School. I aim to teach my student how to research important political science questions by using modern data science applications and causal inference strategies and how to combine those three fields in an innovative and ethical way. 
 
 ## 2025/26
 
 - [GV249 Research Design](https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/GV/2020_GV249.htm) - LSE, Department of Government
+  
+  Course Content:
+  - Formulation of research questions, development of theory and empirically testable hypotheses
+  - Understanding different types of data and measurement
+  - Description vs. inference and Correlation vs. Causation
+  - Quantitative and qualitative data collection and analysis 
+  - Research Ethics 
+  - Research Designs, including Causal inference and identification strategies
+
 - [MY472 Data for Data Scientists](https://lse-my472.github.io/) - LSE, Department of Methodology
 
 ## 2024/25
 - [ME314 Introduction to Data Science and Machine Learning](https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/research-methods/me314) - LSE Summer School
+  
+    Course Content:
+  - Using Python, R, and Quarto in VS Code
+  - Probability and Linear Regression
+  - Causal Inference (DiD, IV, RD)
+  - Core Machine Learning (Lasso, Decision-Trees, Random Forests)
+  - Working with Unstructured data
+  - Static and Dynamic Webscraping
+  - Text as data
+
 - [MY472 Data for Data Scientists](https://lse-my472.github.io/) - LSE, Department of Methodology
+   
+   Course Content: 
+   - Tabular data
+   - Data visualisation
+   - Textual data
+   - HTML, CSS, and scraping static pages
+   - XML, RSS, and scraping non-static pages
+   - Working with APIs
+   - Other data types
+   - Creating and managing databases (SQL)
+   - Interacting with online databases
