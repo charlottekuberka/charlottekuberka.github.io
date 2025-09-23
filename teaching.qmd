@@ -1,0 +1,14 @@
+---
+title: "Teaching"
+---
+
+I teach courses in research methods, data science and machine learning at LSE and LSE Summer School. 
+
+## 2025/26
+
+- [GV249 Research Design](https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/GV/2020_GV249.htm) - LSE, Department of Government
+- [MY472 Data for Data Scientists](https://lse-my472.github.io/) - LSE, Department of Methodology
+
+## 2024/25
+- [ME314 Introduction to Data Science and Machine Learning](https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/research-methods/me314) - LSE Summer School
+- [MY472 Data for Data Scientists](https://lse-my472.github.io/) - LSE, Department of Methodology

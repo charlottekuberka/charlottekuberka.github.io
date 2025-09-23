@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I teach courses in research methods, data science and machine learning at LSE and LSE Summer School."
+  },
+  {
+    "objectID": "teaching.html#section",
+    "href": "teaching.html#section",
+    "title": "Teaching",
+    "section": "2025/26",
+    "text": "2025/26\n\nGV249 Research Design - LSE, Department of Government\nMY472 Data for Data Scientists - LSE, Department of Methodology"
+  },
+  {
+    "objectID": "teaching.html#section-1",
+    "href": "teaching.html#section-1",
+    "title": "Teaching",
+    "section": "2024/25",
+    "text": "2024/25\n\nME314 Introduction to Data Science and Machine Learning - LSE Summer School\nMY472 Data for Data Scientists - LSE, Department of Methodology"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Charlotte Kuberka",
+    "section": "",
+    "text": "I am a second-year PhD student in Political Behavior at the Department of Government at LSE. My supervisors are Melissa Sands, Sara Hobolt and Florian Foos.\nIn my thesis, I aim to explore how individuals’ local environments influence political behavior, using micro-level geospatial data to disentangle the material impacts of rising regional inequality and the unique social identities shaped by the spatial divide between urban and rural citizens.\n\nEducation\n\nLondon School of Economics — MRes/PhD Political Behavior, since 2024\nLondon School of Economics — MSc Applied Social Data Science, 2023/24\nHumboldt University Berlin — MA Social Sciences, BA Social Sciences, 2018-2023\n\n\n\nResearch Interests\n\nContextual Political Behavior\nUrban-Rural Divide\nPlace-based identities\nRegional Inequality\nGreen Transformation\nComputational Social Science"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "Your browser doesn’t support PDF viewing. Download the PDF instead."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Dissertation Project:\nNetworks, Neighborhoods and Place-Based Identities Across the Urban-Rural Divide and their Effect on Political Behavior\n\n\n[Abstract]\n\n\nClimate change represents one of the most universal threats humanity has ever faced, yet efforts to combat it through policy have met with fierce resistance and societal division. This dissertation argues that the answer to this paradox lies in recognizing that even universal problems are perceived through subjective lenses shaped by individuals’ positions in social and geographic space. Specifically, it will examine how place-based identities and geographic social closure influence political preferences, particularly regarding climate policy. This research contributes to three strands of literature through an integrated three-paper approach. Paper 1 examines what influences climate policy preferences across the urban-rural divide, using public transport simulation and commuting data testing how rural resistance is influenced by material vulnerability and social closure. Paper 2 employs an original survey in Germany featuring an innovative map-based social network modules to examine how spatially concentrated networks strengthen place-based identity and particularist attitudes. Paper 3 moves to the policy supply side, using a conjoint experiment to test how place-based identity recognition and material compensation can enhance climate policy support across urban-rural divides. The dissertation demonstrates how geographic social closure as the concentration of social ties and activities within local areas, shapes political reasoning through group-centered rather than ideological processes. By focusing on climate policy preferences as exemplars of symbolic and material polarization, this research provides crucial insights for understanding contemporary political divisions and designing policies that maintain democratic legitimacy across geographic divides.\n\n\n\n\nWorking Papers:\n\nOpposition to Climate Policy or Opposition to the Cities: What Determines Climate Policy Preferences Across the Urban-Rural Divide?\nBounded Communities, Bounded Identities? How Geographic Social Closure Strengthens Place-Based Identity and Affective Polarization\nThe Role of Place-Based Identity Recognition and Compensation in Garnering Support for Climate Policies (with Isolde Hegemann)"
+  }
+]

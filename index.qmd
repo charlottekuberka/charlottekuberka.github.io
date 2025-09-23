@@ -1,0 +1,42 @@
+---
+title: Charlotte Kuberka
+about:
+    image: charlotte.jpeg
+    template: trestles
+    links:
+    - icon: ✉ Email
+      text: Email
+      href: mailto:l.kuberka@lse.ac.uk
+    - icon: github
+      text: Github
+      href: https://github.com/CharlotteKub
+---
+
+
+I am a second-year PhD student in Political Behavior at the [Department of Government](https://www.lse.ac.uk/government) at LSE. 
+My supervisors are 
+[Melissa Sands](https://www.melissasands.org/), 
+[Sara Hobolt](https://hobolt.com/) and 
+[Florian Foos](http://www.florianfoos.net/").
+
+In my thesis, I aim to explore how individuals' local environments influence political behavior, 
+using micro-level geospatial data to disentangle the material impacts of rising regional inequality 
+and the unique social identities shaped by the spatial divide between urban and rural citizens.
+
+### Education
+
+- **London School of Economics** — MRes/PhD Political Behavior, since 2024
+- **London School of Economics** — MSc Applied Social Data Science, 2023/24
+- **Humboldt University Berlin** — MA Social Sciences, BA Social Sciences, 2018-2023
+
+
+
+### Research Interests
+
+- Contextual Political Behavior
+- Urban-Rural Divide
+- Place-based identities
+- Regional Inequality
+- Green Transformation
+- Computational Social Science
+

@@ -1,0 +1,20 @@
+---
+title: "Research"
+---
+
+### Dissertation Project: 
+
+Networks, Neighborhoods and Place-Based Identities Across the Urban-Rural Divide and their Effect on Political Behavior<details style="display: inline;"><summary style="color: red; cursor: pointer; display: inline; list-style: none;">[Abstract]</summary> 
+<div> Climate change represents one of the most universal threats humanity has ever faced, yet efforts to combat it through policy have met with fierce resistance and societal division. This dissertation argues that the answer to this paradox lies in recognizing that even universal problems are perceived through subjective lenses shaped by individuals' positions in social and geographic space. Specifically, it will examine how place-based identities and geographic social closure influence political preferences, particularly regarding climate policy. This research contributes to three strands of literature through an integrated three-paper approach. Paper 1 examines what influences climate policy preferences across the urban-rural divide, using public transport simulation and commuting data testing how rural resistance is influenced by material vulnerability and social closure. Paper 2 employs an original survey in Germany featuring an innovative map-based social network modules to examine how spatially concentrated networks strengthen place-based identity and particularist attitudes. Paper 3 moves to the policy supply side, using a conjoint experiment to test how place-based identity recognition and material compensation can enhance climate policy support across urban-rural divides. The dissertation demonstrates how geographic social closure as the concentration of social ties and activities within local areas, shapes political reasoning through group-centered rather than ideological processes. By focusing on climate policy preferences as exemplars of symbolic and material polarization, this research provides crucial insights for understanding contemporary political divisions and designing policies that maintain democratic legitimacy across geographic divides. 
+    </div>
+   </details>
+
+
+### Working Papers:
+
+1. Opposition to Climate Policy or Opposition to the Cities: What Determines Climate Policy Preferences Across the Urban-Rural Divide? 
+
+2. Bounded Communities, Bounded Identities? How Geographic Social Closure Strengthens Place-Based Identity and Affective Polarization
+
+
+3. The Role of Place-Based Identity Recognition and Compensation in Garnering Support for Climate Policies (with [Isolde Hegemann](https://isoldehegemann.owlstown.net/))
