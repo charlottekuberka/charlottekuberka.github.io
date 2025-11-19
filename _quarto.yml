@@ -1,7 +1,7 @@
 project:
   type: website
-   resources:
-      - googlec936a5cde75aef0b.html
+  resources:
+    - googlec936a5cde75aef0b.html
 
 website:
   title: "Charlotte Kuberka"
