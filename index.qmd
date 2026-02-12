@@ -9,11 +9,11 @@ about:
       href: mailto:l.kuberka@lse.ac.uk
     - icon: github
       text: Github
-      href: https://github.com/CharlotteKub
+      href: https://github.com/charlottekuberka
 ---
 
 
-I am a second-year PhD student in Political Behavior at the [Department of Government](https://www.lse.ac.uk/government) at LSE. 
+I am a PhD candidate in Political Behavior at the [Department of Government](https://www.lse.ac.uk/government) at LSE. 
 My supervisors are 
 [Melissa Sands](https://www.melissasands.org/), 
 [Sara Hobolt](https://hobolt.com/) and 
