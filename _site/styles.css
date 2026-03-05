@@ -18,6 +18,11 @@
     display: block;
 }
 
+.about-image {
+    max-width: 280px !important;
+    width: 280px !important;
+}
+
 /* Custom color theme based on your LaTeX colors */
 :root {
     --lightburgundy: rgb(176, 48, 96);
