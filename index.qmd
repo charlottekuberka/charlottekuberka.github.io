@@ -17,11 +17,9 @@ I am a PhD candidate in Political Behavior at the [Department of Government](htt
 My supervisors are 
 [Melissa Sands](https://www.melissasands.org/), 
 [Sara Hobolt](https://hobolt.com/) and 
-[Florian Foos](http://www.florianfoos.net/").
+[Florian Foos](http://www.florianfoos.net/).
 
-In my thesis, I aim to explore how individuals' local environments influence political behavior, 
-using micro-level geospatial data to disentangle the material impacts of rising regional inequality 
-and the unique social identities shaped by the spatial divide between urban and rural citizens.
+In my thesis, I examine how place shapes political behavior, and how the communities individuals live in and the social networks they maintain across geographic space influence their political outlook and policy preferences, using micro-level geospatial and network data.
 
 ### Education
 
