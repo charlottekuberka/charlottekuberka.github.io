@@ -4,21 +4,33 @@ title: "Research"
 
 ### Dissertation Project: 
 
-Networks, Neighborhoods and Place-Based Identities Across the Urban-Rural Divide and their Effect on Political Behavior<details style="display: inline;"><summary style="color: red; cursor: pointer; display: inline; list-style: none;">[Abstract]</summary> 
+Networks, Neighborhoods and Place-Based Identities Across the Urban-Rural Divide and their Effect on Political Behavior
+<!-- 
+<details style="display: inline;"><summary style="color: red; cursor: pointer; display: inline; list-style: none;">[Abstract]</summary> 
 <div> Climate change represents one of the most universal threats humanity has ever faced, yet efforts to combat it through policy have met with fierce resistance and societal division. This dissertation argues that the answer to this paradox lies in recognizing that even universal problems are perceived through subjective lenses shaped by individuals' positions in social and geographic space. Specifically, it will examine how place-based identities and geographic social closure influence political preferences, particularly regarding climate policy. This research contributes to three strands of literature through an integrated three-paper approach. Paper 1 examines what influences climate policy preferences across the urban-rural divide, using public transport simulation and commuting data testing how rural resistance is influenced by material vulnerability and social closure. Paper 2 employs an original survey in Germany featuring an innovative map-based social network modules to examine how spatially concentrated networks strengthen place-based identity and particularist attitudes. Paper 3 moves to the policy supply side, using a conjoint experiment to test how place-based identity recognition and material compensation can enhance climate policy support across urban-rural divides. The dissertation demonstrates how geographic social closure as the concentration of social ties and activities within local areas, shapes political reasoning through group-centered rather than ideological processes. By focusing on climate policy preferences as exemplars of symbolic and material polarization, this research provides crucial insights for understanding contemporary political divisions and designing policies that maintain democratic legitimacy across geographic divides. 
     </div>
-   </details>
+   </details> -->
 
 
 ### Working Papers:
 
-1. Opposition to Climate Policy or Opposition to the Cities: What Determines Rural Climate Policy Preferences Across the Urban-Rural Divide? 
+1. Tied to Place: Social Networks, Connectivity, and Rural–Urban Political Divergence 
 
 2. Bounded Communities, Bounded Identities? How Geographic Social Closure Strengthens Place-Based Identity and Affective Polarization
 
 
-3. No Compensation without Representation: The Effect of Democratic Inclusion and Place-based Group Appeals on Citizens' Support of Compensation Policies (with [Isolde Hegemann](https://isoldehegemann.owlstown.net/))
+3. Beyond Redistribution? How Material, Political, And Symbolic Inclusion Shape Support For Compensation Policies Among Rural Residents In Germany (with [Isolde Hegemann](https://isoldehegemann.owlstown.net/))  <details style="display: inline;"><summary style="color: red; cursor: pointer; display: inline; list-style: none;">[Abstract]</summary> 
+<div>
+Does recognizing place-based identities and including local communities increase approval for compensation policies across the urban-rural divide? Rural areas are often more skeptical toward policies where costs, benefits, or cultural implications are geographically concentrated and experienced differently across the urban-rural divide. Existing research has shown that compensation policies can alleviate concerns around such costly policies. However, these studies have not explored non-material features of compensation policies that may affect their approval. We argue that compensation policies become more successful where they feature the political and symbolic inclusion of rural communities. To test the effects of material, political, and symbolic inclusion on policy support, we field a pre-registered conjoint survey experiment in April 2026 in Germany. Respondents are presented with proposals on climate and immigration compensation policies. We find that local democratic inclusion, symbolic place-based recognition, and holistic community spending each independently increase rural policy support and that rural residents are willing to make substantial trade offs in material compensation for meaningful democratic participation and community recognition. These findings have direct implications for how governments design compensation policies in an era of constrained public budgets and deepening place-based resentment.
+ </div>
+   </details>
 
-4. The 'Social Haunting' of the 1984 UK Coalminers' Strike: Formative Exposure, Political Socialization, and Long-Term Voting Behavior (with [Franziska Veit](https://franziskaveit.github.io/))
+1. Echoes of the Picket Line: Political Legacy Effects of the 1984–85 UK Miners’ Strike (with [Franziska Veit](https://franziskaveit.github.io/)) <details style="display: inline;"><summary style="color: red; cursor: pointer; display: inline; list-style: none;">[Abstract]</summary> 
+<div>
+    The 1984-1985 United Kingdom coal miners' strike is widely regarded as one of the biggest and most consequential industrial disputes in modern British history. Beyond its immediate economic and social effects, the strike is often described as a profoundly politicizing event. Leveraging an original dataset linking historical coal mine closures to local and national election outcomes, we employ a Differences-in-Differences design to estimate the long-term effects of strike-related closures on voting behavior in English constituencies between 1974 and 2020. We also use harmonized longitudinal data from \textit{Understanding Society: The UK Household Longitudinal Study} (UKHLS, 1991–2023) with MSOA-level geographic identifiers to examine effects on political attitudes. Preliminary findings show that individuals in areas with strike-related mine closures show lower levels of political efficacy and democratic satisfaction compared to individuals in unaffected mining areas, and that these effects seem to persist, while effects on voting behavior appear less consistent. The results have implications for how core political experiences shape long-term political attitudes, as well as the legacy effects of rapid deindustrialization and the political conflict it produced.
+  </div>
+   </details>
 
-5. On the Right Track? Improving Local Transport Provision and Its Political Consequences (with [Julius Kölzer](https://juliuskoelzer.de/))
+1. On the Right Track? Improving Local Transport Provision and Its Political Consequences (with [Julius Kölzer](https://juliuskoelzer.de/))
+
+2. Economic Inequality, Social Insulation and Political Polarization in the UK (with [Miriam Sorace](https://miriamsorace.github.io/), [Irene Rodriguez](http://irenerodriguez.cat/) and Tarek Jaziri Arjona)
