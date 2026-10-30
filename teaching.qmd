@@ -4,7 +4,7 @@ title: "Teaching"
 
 I teach courses in research methods, data science and machine learning at LSE and LSE Summer School. I aim to teach my student how to research important political science questions by using modern data science applications and causal inference strategies and how to combine those three fields in an innovative and ethical way. 
 
-## 2025/26
+## 2025/26, 2026/27
 
 - [GV249 Research Design](https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/GV/2020_GV249.htm) - LSE, Department of Government
   

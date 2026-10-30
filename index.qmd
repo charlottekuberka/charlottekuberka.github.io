@@ -1,8 +1,9 @@
 ---
 title: Charlotte Kuberka
 about:
-    image: img_2.jpg
+    image: img_2706.jpg
     template: trestles
+    image-width: 250px
     links:
     - icon: ✉ Email
       text: Email
