@@ -31,8 +31,8 @@
     "objectID": "teaching.html#section-1",
     "href": "teaching.html#section-1",
     "title": "Teaching",
-    "section": "2024/25",
-    "text": "2024/25\n\nME314 Introduction to Data Science and Machine Learning - LSE Summer School\nCourse Content:\n\nUsing Python, R, and Quarto in VS Code\nProbability and Linear Regression\nCausal Inference (DiD, IV, RD)\nCore Machine Learning (Lasso, Decision-Trees, Random Forests)\nWorking with Unstructured data\nStatic and Dynamic Webscraping\nText as data\n\nMY472 Data for Data Scientists - LSE, Department of Methodology\nCourse Content:\n\nTabular data\nData visualisation\nTextual data\nHTML, CSS, and scraping static pages\nXML, RSS, and scraping non-static pages\nWorking with APIs\nOther data types\nCreating and managing databases (SQL)\nInteracting with online databases"
+    "section": "2024/25, 2025/26",
+    "text": "2024/25, 2025/26\n\nME314 Introduction to Data Science and Machine Learning - LSE Summer School\nCourse Content:\n\nUsing Python, R, and Quarto in VS Code\nProbability and Linear Regression\nCausal Inference (DiD, IV, RD)\nCore Machine Learning (Lasso, Decision-Trees, Random Forests)\nWorking with Unstructured data\nStatic and Dynamic Webscraping\nText as data\n\nMY472 Data for Data Scientists - LSE, Department of Methodology\nCourse Content:\n\nTabular data\nData visualisation\nTextual data\nHTML, CSS, and scraping static pages\nXML, RSS, and scraping non-static pages\nWorking with APIs\nOther data types\nCreating and managing databases (SQL)\nInteracting with online databases"
   },
   {
     "objectID": "index.html",
